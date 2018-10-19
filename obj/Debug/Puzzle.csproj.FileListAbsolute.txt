@@ -1,0 +1,17 @@
+D:\vs\Puzzle\Puzzle\obj\Debug\MainWindow.g.cs
+D:\vs\Puzzle\Puzzle\obj\Debug\App.g.cs
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle_MarkupCompile.cache
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle_MarkupCompile.lref
+D:\vs\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+D:\vs\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+D:\vs\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+D:\vs\Puzzle\Puzzle\obj\Debug\MainWindow.baml
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.g.resources
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+D:\vs\Puzzle\Puzzle\obj\Debug\Play.g.cs
+D:\vs\Puzzle\Puzzle\obj\Debug\Play.baml
+D:\vs\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
